@@ -3,7 +3,7 @@ import json
 
 DEF_SHOP = "shopicruit"
 DEF_LINK = "https://shopicruit.myshopify.com/admin/orders.json"
-###Spoify Calculator
+###Shopify Calculator
 # This script will submit a request to the appropriate link,
 # parse the resulting json object,
 # and caculate the total amount of revenue from all orders
